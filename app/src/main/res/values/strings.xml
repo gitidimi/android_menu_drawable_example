@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Dashboard</string>
+    <string name="ad">Anzeigen</string>
+    <string name="ad_my_ads">My Anzeigen</string>
+    <string name="ad_cars">Autos</string>
+    <string name="ad_pc">Computer</string>
+    <string name="ad_smartphone">Handys</string>
+    <string name="ad_dm">Haushaltsgeräte</string>
+    <string name="ad_ac">Account</string>
+    <string name="ad_sign_in">Sign in</string>
+    <string name="ad_sign_up">Sign up</string>
+    <string name="ad_registration">Registration</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+</resources>
